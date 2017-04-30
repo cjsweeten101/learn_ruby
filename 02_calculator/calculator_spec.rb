@@ -1,4 +1,4 @@
-# # Topics
+1# # Topics
 #
 # * functions
 # * math
@@ -79,10 +79,10 @@ end
 
 describe "#multiply" do
 
-  it "multiplies two numbers"
+  it "multiplies two numbers" 
 
   it "multiplies several numbers"
-  
+    
 end
 
 describe "#power" do
